@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1862068
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=2.2
+Released=2020-10-30 08:28:35
+Downloaded=2024-01-13 16:04:23
+3D=Y

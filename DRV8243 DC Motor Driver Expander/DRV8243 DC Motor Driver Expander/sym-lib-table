@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV8243")(type "KiCad")(uri "C:/Users/alexd/Documents/Pan Robotics/Products/Motion/DRV8243 DC Motor Driver Expander/DRV8243SQRXYRQ1/KiCADv6/2024-02-03_14-21-55.kicad_sym")(options "")(descr ""))
+  (lib (name "1862042")(type "KiCad")(uri "C:/Users/alexd/Documents/Pan Robotics/Products/Motion/DRV8243 DC Motor Driver Expander/1862042/KiCADv6/2023-10-16_17-24-54.kicad_sym")(options "")(descr ""))
+  (lib (name "1862055")(type "KiCad")(uri "C:/Users/alexd/Documents/Pan Robotics/Products/Motion/DRV8243 DC Motor Driver Expander/1862055/KiCADv6/2023-10-16_17-23-19.kicad_sym")(options "")(descr ""))
+  (lib (name "1862262")(type "KiCad")(uri "C:/Users/alexd/Documents/Pan Robotics/Products/Motion/DRV8243 DC Motor Driver Expander/LIB_1862262/1862262/KiCad/1862262.kicad_sym")(options "")(descr ""))
+  (lib (name "1862068")(type "KiCad")(uri "C:/Users/alexd/Documents/Pan Robotics/Products/Motion/DRV8243 DC Motor Driver Expander/LIB_1862068/1862068/KiCad/1862068.kicad_sym")(options "")(descr ""))
+)

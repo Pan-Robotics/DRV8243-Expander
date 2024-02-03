@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1862068'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Phoenix Contact", "1862068" (!) = "", "1862068", "Other", "651-1862068", "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1862068?qs=tlR8i4ZVbUc%2F8QHSz36BSA%3D%3D", "Fixed Terminal Blocks SPTAF 1/ 4-3,5-EL", "https://www.arrow.com/en/products/1862068/phoenix-contact", "10.2 mm"
+END_PART
+
+END.

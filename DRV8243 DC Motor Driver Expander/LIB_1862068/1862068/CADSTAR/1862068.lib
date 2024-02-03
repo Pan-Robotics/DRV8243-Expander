@@ -1,0 +1,16 @@
+.1862068 :1 ;Fixed Terminal Blocks SPTAF 1/ 4-3,5-EL
+"1862068"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8"
+*MXP 8
+*DFN 1862068
+~!Mouser Part Number (651-1862068)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1862068?qs=tlR8i4ZVbUc%2F8QHSz36BSA%3D%3D)
+~!Manufacturer_Name (Phoenix Contact)
+~!Manufacturer_Part_Number (1862068)
+~!Link Datasheet (https://www.arrow.com/en/products/1862068/phoenix-contact)
+~!Height (10.2mm)
+~!3D_Model (1862068)
+"1862068"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 
